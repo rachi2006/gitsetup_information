@@ -25,7 +25,7 @@ Easy to understand
 
 📌 Example:
 Mobile apps like Instagram or WhatsApp have good UI because anyone can use them without training.
-
+------------------------------------------------------------------------------------------------------------------------------------
 2️⃣ Interface Design – Key Questions
 
 A good interface should answer:
@@ -37,7 +37,7 @@ Is it easy to use?
 Is it easy to understand?
 
 If users feel confused or stressed, the interface is bad ❌
-
+-------------------------------------------------------------------------------------------------------------------------
 3️⃣ Typical Design Errors
 
 These are common mistakes in UI design:
@@ -61,7 +61,7 @@ Arcane / unfriendly
 – Looks complex, scary, or outdated
 
 📌 Result: Users get frustrated 😤
-
+-------------------------------------------------------------------------------------------------------------------------
 4️⃣ Golden Rules of User Interface Design
 
 These are rules to design a good UI:
@@ -83,7 +83,7 @@ Use icons, menus, suggestions
 Same colors, buttons, fonts, layouts everywhere
 
 Example: Save button always in same place
-
+-------------------------------------------------------------------------------------------------------------------------
 5️⃣ User Interface Design Process
 
 UI design is not one step, it’s a cycle:
@@ -99,7 +99,7 @@ Interface Construction
 Interface Validation
 
 🔁 This process repeats until the UI becomes better.
-
+-------------------------------------------------------------------------------------------------------------------------
 6️⃣ Interface Analysis
 
 It means understanding before designing.
@@ -120,7 +120,7 @@ Designing UI for:
 Mobile user ≠ Desktop user
 
 Student ≠ Doctor
-
+-------------------------------------------------------------------------------------------------------------------------
 7️⃣ Task Analysis and Modeling
 
 Goal: Understand user work in detail.
@@ -146,7 +146,7 @@ Task elaboration – detailed task steps
 Object elaboration – interface objects
 
 Workflow analysis – how work is completed
-
+-------------------------------------------------------------------------------------------------------------------------
 8️⃣ UI Design Patterns – Design Issues
 
 Important issues to handle:
@@ -160,7 +160,7 @@ Error handling – Clear error messages
 Menu & command labeling – Easy names
 
 Accessibility – For all users (disabled users too)
-
+-------------------------------------------------------------------------------------------------------------------------
 9️⃣ Mapping User Objectives
 
 This means:
@@ -181,7 +181,7 @@ Main content area
 Graphics
 
 Header & footer
-
+-------------------------------------------------------------------------------------------------------------------------
 🔟 Aesthetic Design
 
 This is about look & feel of UI 🎨
