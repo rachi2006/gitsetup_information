@@ -2,13 +2,13 @@
 FULL PROCESS: Add Git & Connect Project to GitHub using VS Code:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✅ STEP 1: Install Git (only first time)
+STEP 1: Install Git (only first time)
 Check Git installed or not
 
 Open VS Code → open terminal:
 Type:
 git --version
-If version shows → Git installed ✅
+If version shows → Git installed 
 If not:
 
 Install Git
@@ -19,13 +19,13 @@ Download Git
 
 Install → Next → Next → Install 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✅ STEP 2: Open your project in VS Code
+STEP 2: Open your project in VS Code
 
 Open VS Code
 Click File → Open Folder
 Select your project folder
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✅ STEP 3: Initialize Git in project
+STEP 3: Initialize Git in project
 
 Open terminal in VS Code: 
 
@@ -45,7 +45,7 @@ Initialized empty Git repository
 Now Git is active in your project.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ STEP 4: Add files to Git
+STEP 4: Add files to Git
 
 Type:
 
@@ -55,7 +55,7 @@ git add .
 This adds all project files.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ STEP 5: Commit files (save snapshot)
+STEP 5: Commit files (save snapshot)
 
 Type:
 
@@ -73,7 +73,7 @@ git config --global user.email "youremail@gmail.com"
 Then again run commit.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ STEP 6: Create repository on GitHub
+STEP 6: Create repository on GitHub
 
 Open https://github.com
 
@@ -85,12 +85,12 @@ Enter repository name (example: pythonlab)
 
 Select Public
 
-❌ Don't add README
+Don't add README
 
 Click Create repository
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ STEP 7: Connect VS Code to GitHub repo
+STEP 7: Connect VS Code to GitHub repo
 
 After creating repo, copy repo link.
 
@@ -106,7 +106,7 @@ git remote add origin https://github.com/username/repo.git
 Set main branch:
 git branch -M main
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✅ STEP 8: Upload project to GitHub
+STEP 8: Upload project to GitHub
 
 Type:
 
@@ -120,17 +120,19 @@ git push -u origin main --force
 
 Login to GitHub if asked.
 
-🎉 DONE
+DONE
 
 Open GitHub → refresh
 Your project will be uploaded.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔁 AFTER THIS (whenever you update code)
+AFTER THIS (whenever you update code)
 
 Every time you change code:
 
-git add .
+git add .   
+
 git commit -m "update"
+
 git push
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------
